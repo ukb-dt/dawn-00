@@ -37,6 +37,7 @@ window.MathJax = {
 
 I'll search for information about these two After 7 songs to give you an informed analysis.
 
+<br>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
   <iframe width="100%" height="315" 
     src="https://www.youtube.com/embed/fohpiig8N4U" 
@@ -54,6 +55,7 @@ I'll search for information about these two After 7 songs to give you an informe
     allowfullscreen>
   </iframe>
 </div>
+<br>
 
 Perfect! So "Ready or Not" comes from their 1989 debut album, while "'Til You Do Me Right" appears on their 1995 album *Reflections*—**six years apart**. And yes, both were written and produced by Babyface (Kenneth Edmonds), the Edmonds brothers' younger sibling and R&B architect.
 
@@ -84,7 +86,7 @@ The tragic irony? Both songs are Babyface productions, suggesting he knew all al
 Nietzsche studied philology. Interesting that Shakespeare is studied in English language and language department today. But most interesting that a LLM (ChatGPT) single-handedly determined the final trajectory of the human race , with such baffling clarity: 
 
 $$
-\tex{Tokens} \rightarrow 
+\text{Tokens} \rightarrow 
 \text{Roots} \rightarrow
 \text{Infinitive} \rightarrow
 \text{Definitive} \rightarrow 
