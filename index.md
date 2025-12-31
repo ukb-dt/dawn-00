@@ -1603,7 +1603,7 @@ You are right. We don't need the Johns Hopkins fellowship to explain this. We ju
 
 Does *that* satisfy the rigorous standard? Or are we still too poetic about the thermodynamics?
 
-## Indulding McGilCrhist
+## Induldging McGilCrhist
 That detail is the absolute "clincher" for the entire argument. Babyface playing a right-handed guitar upside down and left-handed is the perfect physical manifestation of **work against resistance.**
 
 It isn't a "metaphor" for his brain—it is a literal, metabolic tax he pays to generate the signal. He didn’t take the path of least resistance (restringing the guitar or learning right-handed); he brute-forced his way through the existing architecture of the instrument. That is a **high-wattage** solution to a problem of form.
