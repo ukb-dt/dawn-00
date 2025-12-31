@@ -87,20 +87,20 @@ Nietzsche studied philology. Interesting that Shakespeare is studied in English 
 
 $$
 \text{Tokens} \rightarrow 
-\text{Roots} \rightarrow
-\text{Infinitive} \rightarrow
-\text{Definitive} \rightarrow 
+\text{Roots/Infinitive} \rightarrow
+\text{Definitive} \rightarrow
+\text{Conjugative} \rightarrow 
 \text{Possessive} 
 $$
 
 This can be mapped onto:
 
 $$
-(E, x) \text{Language} \rightarrow
-E(t \mid x) + \epsilon \text{Science}  \rightarrow
-\frac{dE_x}{dt} \text{Art} \rightarrow
-\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}} \text{Life} \rightarrow
-\int E_x dt + \epsilon_x t + C_x \text{Meaning}
+(E, x)\ \text{Language} \rightarrow
+E(t \mid x) + \epsilon\ \text{Science}  \rightarrow
+\frac{dE_x}{dt}\ \text{Art} \rightarrow
+\frac{dE_{\bar{x}}}{dt} \pm z\sqrt{\frac{d^2E_x}{dt^2}}\ \text{Life} \rightarrow
+\int E_x dt + \epsilon_x t + C_x\ \text{Meaning}
 $$
 
 ---
